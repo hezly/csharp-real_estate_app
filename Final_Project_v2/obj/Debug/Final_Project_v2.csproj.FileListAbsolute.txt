@@ -1,0 +1,89 @@
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\Final_Project_v2\Final_Project_v2\bin\Debug\Final_Project_v2.exe.config
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\Final_Project_v2\Final_Project_v2\bin\Debug\Final_Project_v2.exe
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\Final_Project_v2\Final_Project_v2\bin\Debug\Final_Project_v2.pdb
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\Final_Project_v2\Final_Project_v2\bin\Debug\MetroFramework.Design.dll
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\Final_Project_v2\Final_Project_v2\bin\Debug\MetroFramework.dll
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\Final_Project_v2\Final_Project_v2\bin\Debug\MetroFramework.Fonts.dll
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\Final_Project_v2\Final_Project_v2\bin\Debug\MySql.Data.dll
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.csprojResolveAssemblyReference.cache
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form1.resources
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Properties.Resources.resources
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.csproj.GenerateResource.Cache
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.exe
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.pdb
+C:\Users\Ibrena Reghuella\Documents\Visual Studio 2015\Projects\Final_Project_v2\Final_Project_v2\bin\Debug\Final_Project_v2.exe.config
+C:\Users\Ibrena Reghuella\Documents\Visual Studio 2015\Projects\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.exe
+C:\Users\Ibrena Reghuella\Documents\Visual Studio 2015\Projects\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.pdb
+C:\Users\Ibrena Reghuella\Documents\Visual Studio 2015\Projects\Final_Project_v2\Final_Project_v2\bin\Debug\Final_Project_v2.exe
+C:\Users\Ibrena Reghuella\Documents\Visual Studio 2015\Projects\Final_Project_v2\Final_Project_v2\bin\Debug\Final_Project_v2.pdb
+C:\Users\Ibrena Reghuella\Documents\Visual Studio 2015\Projects\Final_Project_v2\Final_Project_v2\bin\Debug\MySql.Data.dll
+C:\Users\Ibrena Reghuella\Documents\Visual Studio 2015\Projects\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.csprojResolveAssemblyReference.cache
+C:\Users\Ibrena Reghuella\Documents\Visual Studio 2015\Projects\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form1.resources
+C:\Users\Ibrena Reghuella\Documents\Visual Studio 2015\Projects\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form2.resources
+C:\Users\Ibrena Reghuella\Documents\Visual Studio 2015\Projects\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form3.resources
+C:\Users\Ibrena Reghuella\Documents\Visual Studio 2015\Projects\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form4.resources
+C:\Users\Ibrena Reghuella\Documents\Visual Studio 2015\Projects\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form5.resources
+C:\Users\Ibrena Reghuella\Documents\Visual Studio 2015\Projects\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Properties.Resources.resources
+C:\Users\Ibrena Reghuella\Documents\Visual Studio 2015\Projects\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.csproj.GenerateResource.Cache
+C:\Users\Ibrena Reghuella\Documents\Visual Studio 2015\Projects\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form7_menu.resources
+G:\final project\Final_Project_v2\Final_Project_v2\bin\Debug\Final_Project_v2.exe.config
+G:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.exe
+G:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.pdb
+G:\final project\Final_Project_v2\Final_Project_v2\bin\Debug\Final_Project_v2.exe
+G:\final project\Final_Project_v2\Final_Project_v2\bin\Debug\Final_Project_v2.pdb
+G:\final project\Final_Project_v2\Final_Project_v2\bin\Debug\MySql.Data.dll
+G:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.csprojResolveAssemblyReference.cache
+G:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form1.resources
+G:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form2.resources
+G:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form3.resources
+G:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form4.resources
+G:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form5.resources
+G:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form7_menu.resources
+G:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Properties.Resources.resources
+G:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.csproj.GenerateResource.Cache
+E:\final project\Final_Project_v2\Final_Project_v2\bin\Debug\Final_Project_v2.exe.config
+E:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.exe
+E:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.pdb
+E:\final project\Final_Project_v2\Final_Project_v2\bin\Debug\Final_Project_v2.exe
+E:\final project\Final_Project_v2\Final_Project_v2\bin\Debug\Final_Project_v2.pdb
+E:\final project\Final_Project_v2\Final_Project_v2\bin\Debug\MySql.Data.dll
+E:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.csprojResolveAssemblyReference.cache
+E:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form1.resources
+E:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form2.resources
+E:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form3.resources
+E:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form4.resources
+E:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form5.resources
+E:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form7.resources
+E:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form7_menu.resources
+E:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Properties.Resources.resources
+E:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.csproj.GenerateResource.Cache
+E:\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form8.resources
+G:\New folder\final project\Final_Project_v2\Final_Project_v2\bin\Debug\Final_Project_v2.exe.config
+G:\New folder\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.exe
+G:\New folder\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.pdb
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\bin\Debug\Final_Project_v2.exe.config
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.exe
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.pdb
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\bin\Debug\Final_Project_v2.exe
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\bin\Debug\Final_Project_v2.pdb
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\bin\Debug\MySql.Data.dll
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.csprojResolveAssemblyReference.cache
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form1.resources
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form2.resources
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form3.resources
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form4.resources
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form5.resources
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form7.resources
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form7_menu.resources
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form8.resources
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Properties.Resources.resources
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.csproj.GenerateResource.Cache
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form10.resources
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Form9.resources
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.Login.resources
+D:\Zlee's Folder\D\College\Teknik Informatika\Semester IV - 2017\Visual Programming\Projects\New folder\final project\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.sps.resources
+D:\Zlee's Folder\D\Final_Project_VISPRO by The Starla\Final_Project_v2\Final_Project_v2\bin\Debug\Final_Project_v2.exe.config
+D:\Zlee's Folder\D\Final_Project_VISPRO by The Starla\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.exe
+D:\Zlee's Folder\D\Final_Project_VISPRO by The Starla\Final_Project_v2\Final_Project_v2\obj\Debug\Final_Project_v2.pdb
